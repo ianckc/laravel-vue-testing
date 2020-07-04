@@ -16,7 +16,7 @@ npm run dev
 
 Install testing packages
 
-npm install --save-dev @vue/test-utils mocha mochapack jsdom jsdom-global expect
+npm install --save-dev @vue/test-utils mocha mochapack jsdom jsdom-global expect moxios
 
 Create the tests directory
 
