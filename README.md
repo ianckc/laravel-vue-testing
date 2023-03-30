@@ -1,3 +1,5 @@
+## No longer receiving security updates
+
 Install Laravel
 
 laravel new project-name
